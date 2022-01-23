@@ -1,5 +1,5 @@
-dddddddddddddddddddddddddd### Hi there 👋
-![bg](windows98.png)
+there 👋
+![bg](3d7468d1bb523674726ba6934a396566](https://user-images.githubusercontent.com/90598330/150702298-1d29f5ad-3c68-4e31-a83f-58fb3457f41d.gif)
 
 **daneTorrison/daneTorrison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
