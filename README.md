@@ -3,10 +3,8 @@
 
 
 
-<h1></h1>
 
-
-Welcome to my Github!
+<h1>Welcome to my Github!</h1>
 - 🔭 I’m currently a student at CSU Chico
 - 🌱 I’m currently learning React js, R, Python
 - 📫 How to reach me: danetorrison2@gmail.com
