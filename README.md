@@ -27,6 +27,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
  
  <h2>Contact Me<h2>
+<a href="https://www.linkedin.com/in/dane-torrison"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+<a href="https://medium.com/@danetorrison2"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
 <br>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=daneTorrison.daneTorrison"
 <br></br>
