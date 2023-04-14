@@ -5,7 +5,7 @@
 
 
 
- - 🔭 I’m currently a student at CSU Chico
+ - 🔭 I’m currently a Business Systems Analyst for UC Berkeley
  - 🌱 I’m currently learning React js, R, Python
  - 📫 How to reach me: danetorrison2@gmail.com
  - 😄 Pronouns: he/him
